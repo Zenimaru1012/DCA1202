@@ -1,0 +1,5 @@
+12. O que é um ponteiro para uma função? Pesquise na Internet referências sobre o assunto e
+escreva um pequeno programa exemplificando o uso deste recurso.
+
+Em C, o identificador de uma função é visto como uma referência/endereço para uma área de memória onde se encontram instruções
+que caracterizam a função. Por isso, o identificador pode ser visto como um ponteiro e assim, funções podem ser acessadas usando ponteiros, de forma similar às variáveis.

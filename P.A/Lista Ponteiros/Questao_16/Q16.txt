@@ -1,0 +1,2 @@
+16) Após realizar a ordenação de um mesmo vetor através de duas funções diferentes, em ambas foi encontrado um tempo de execução de 0.000000.
+    Ou seja, para ambos os códigos sua execução foi praticamente instantânea.
