@@ -1,0 +1,2 @@
+gcc -o Executaveis/desenho.exe desenho.cpp figurageometrica.cpp sculptor.cpp putvoxel.cpp cutvoxel.cpp putbox.cpp cutbox.cpp putsphere.cpp cutsphere.cpp putellipsoid.cpp cutellipsoid.cpp -lstdc++
+gcc -o Executaveis/teste.exe teste.cpp figurageometrica.cpp sculptor.cpp putvoxel.cpp cutvoxel.cpp putbox.cpp cutbox.cpp putsphere.cpp cutsphere.cpp putellipsoid.cpp cutellipsoid.cpp -lstdc++

@@ -1,0 +1,7 @@
+<map id="PutSphere::draw" name="PutSphere::draw">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,31,123,57"/>
+<area shape="rect" id="Node000002" href="$class_sculptor.html#a5cf733d88cfeddf4e6df35da4d75dd41" title=" " alt="" coords="171,5,299,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="123,33,156,28,156,33,124,38"/>
+<area shape="rect" id="Node000003" href="$class_sculptor.html#a5723e671e073ac310b6f385a7fdc9f9f" title=" " alt="" coords="172,56,298,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="124,50,158,55,157,60,123,55"/>
+</map>

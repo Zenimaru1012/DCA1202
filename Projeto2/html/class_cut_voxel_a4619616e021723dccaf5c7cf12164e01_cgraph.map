@@ -1,0 +1,5 @@
+<map id="CutVoxel::draw" name="CutVoxel::draw">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,115,32"/>
+<area shape="rect" id="Node000002" href="$class_sculptor.html#a06d641ef19a86447e1b2791a9f46ec7f" title=" " alt="" coords="163,5,291,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="115,16,148,16,148,21,115,21"/>
+</map>

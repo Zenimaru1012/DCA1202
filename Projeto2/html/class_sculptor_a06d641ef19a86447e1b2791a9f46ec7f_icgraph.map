@@ -1,0 +1,11 @@
+<map id="Sculptor::cutVoxel" name="Sculptor::cutVoxel">
+<area shape="rect" id="Node000001" title=" " alt="" coords="179,81,307,108"/>
+<area shape="rect" id="Node000002" href="$class_cut_box.html#a01216b04bf5a2d01ce1fb89f3fa62a46" title=" " alt="" coords="18,5,118,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="198,77,130,46,103,35,105,30,132,42,200,72"/>
+<area shape="rect" id="Node000003" href="$class_cut_ellipsoid.html#a7110c3cd9dc76bd09ec259b429a3e532" title=" " alt="" coords="5,56,131,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="164,86,131,81,132,76,164,81"/>
+<area shape="rect" id="Node000004" href="$class_cut_sphere.html#ad62239c047f0817ba6fd4b85ae2eae42" title=" " alt="" coords="9,107,127,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="164,109,128,114,127,109,164,103"/>
+<area shape="rect" id="Node000005" href="$class_cut_voxel.html#a4619616e021723dccaf5c7cf12164e01" title=" " alt="" coords="13,157,123,184"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="200,117,132,148,105,159,103,154,130,143,198,112"/>
+</map>

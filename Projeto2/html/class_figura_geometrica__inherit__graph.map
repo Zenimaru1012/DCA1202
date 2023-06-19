@@ -1,0 +1,19 @@
+<map id="FiguraGeometrica" name="FiguraGeometrica">
+<area shape="rect" id="Node000001" title=" " alt="" coords="337,5,461,32"/>
+<area shape="rect" id="Node000002" href="$class_cut_box.html" title=" " alt="" coords="5,80,70,107"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="323,35,209,56,82,83,71,85,69,80,81,77,208,51,322,30"/>
+<area shape="rect" id="Node000003" href="$class_cut_ellipsoid.html" title=" " alt="" coords="94,80,184,107"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="340,39,185,82,184,77,339,34"/>
+<area shape="rect" id="Node000004" href="$class_cut_sphere.html" title=" " alt="" coords="208,80,291,107"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="361,41,277,82,275,77,359,36"/>
+<area shape="rect" id="Node000005" href="$class_cut_voxel.html" title=" " alt="" coords="315,80,389,107"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="385,46,362,81,358,78,381,43"/>
+<area shape="rect" id="Node000006" href="$class_put_box.html" title=" " alt="" coords="413,80,478,107"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="417,43,440,78,435,81,413,46"/>
+<area shape="rect" id="Node000007" href="$class_put_ellipsoid.html" title=" " alt="" coords="502,80,592,107"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="439,36,522,77,520,82,436,41"/>
+<area shape="rect" id="Node000008" href="$class_put_sphere.html" title=" " alt="" coords="616,80,699,107"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="458,34,617,78,615,83,457,39"/>
+<area shape="rect" id="Node000009" href="$class_put_voxel.html" title=" " alt="" coords="723,80,797,107"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="476,31,711,77,723,80,722,85,710,83,475,36"/>
+</map>

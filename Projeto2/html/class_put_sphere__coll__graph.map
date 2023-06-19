@@ -1,0 +1,5 @@
+<map id="PutSphere" name="PutSphere">
+<area shape="rect" id="Node000001" title=" " alt="" coords="26,80,109,107"/>
+<area shape="rect" id="Node000002" href="$class_figura_geometrica.html" title=" " alt="" coords="5,5,130,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="70,47,70,80,65,80,65,47"/>
+</map>

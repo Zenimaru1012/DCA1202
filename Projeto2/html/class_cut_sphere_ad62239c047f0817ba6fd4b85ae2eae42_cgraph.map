@@ -1,0 +1,5 @@
+<map id="CutSphere::draw" name="CutSphere::draw">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,123,32"/>
+<area shape="rect" id="Node000002" href="$class_sculptor.html#a06d641ef19a86447e1b2791a9f46ec7f" title=" " alt="" coords="171,5,299,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="123,16,156,16,156,21,123,21"/>
+</map>

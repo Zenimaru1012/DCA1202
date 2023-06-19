@@ -1,0 +1,149 @@
+\doxysection{Sculptor Class Reference}
+\label{class_sculptor}\index{Sculptor@{Sculptor}}
+
+
+{\ttfamily \#include $<$sculptor.\+h$>$}
+
+\doxysubsubsection*{Public Member Functions}
+\begin{DoxyCompactItemize}
+\item 
+\textbf{ Sculptor} (int \+\_\+nx, int \+\_\+ny, int \+\_\+nz)
+\item 
+\textbf{ $\sim$\+Sculptor} ()
+\item 
+void \textbf{ set\+Color} (float \+\_\+r, float \+\_\+g, float \+\_\+b, float \+\_\+a)
+\item 
+void \textbf{ put\+Voxel} (int \+\_\+x, int \+\_\+y, int \+\_\+z)
+\item 
+void \textbf{ cut\+Voxel} (int \+\_\+x, int \+\_\+y, int \+\_\+z)
+\item 
+void \textbf{ put\+Box} (int x0, int x1, int y0, int y1, int z0, int z1)
+\item 
+void \textbf{ cut\+Box} (int x0, int x1, int y0, int y1, int z0, int z1)
+\item 
+void \textbf{ put\+Sphere} (int xcenter, int ycenter, int zcenter, int radius)
+\item 
+void \textbf{ cut\+Sphere} (int xcenter, int ycenter, int zcenter, int radius)
+\item 
+void \textbf{ put\+Ellipsoid} (int xcenter, int ycenter, int zcenter, int rx, int ry, int rz)
+\item 
+void \textbf{ cut\+Ellipsoid} (int xcenter, int ycenter, int zcenter, int rx, int ry, int rz)
+\item 
+void \textbf{ write\+OFF} (const std\+::string filename)
+\end{DoxyCompactItemize}
+
+
+\doxysubsection{Constructor \& Destructor Documentation}
+\label{class_sculptor_a014e3ef5517bf0e9d9e14486b6ac6433} 
+\index{Sculptor@{Sculptor}!Sculptor@{Sculptor}}
+\index{Sculptor@{Sculptor}!Sculptor@{Sculptor}}
+\doxysubsubsection{Sculptor()}
+{\footnotesize\ttfamily Sculptor\+::\+Sculptor (\begin{DoxyParamCaption}\item[{int}]{\+\_\+nx,  }\item[{int}]{\+\_\+ny,  }\item[{int}]{\+\_\+nz }\end{DoxyParamCaption})}
+
+\label{class_sculptor_a8f159bf97458326f16d2e238e11be7ff} 
+\index{Sculptor@{Sculptor}!````~Sculptor@{$\sim$Sculptor}}
+\index{````~Sculptor@{$\sim$Sculptor}!Sculptor@{Sculptor}}
+\doxysubsubsection{$\sim$Sculptor()}
+{\footnotesize\ttfamily Sculptor\+::$\sim$\+Sculptor (\begin{DoxyParamCaption}{ }\end{DoxyParamCaption})}
+
+
+
+\doxysubsection{Member Function Documentation}
+\label{class_sculptor_aa84a1b12b09e9e103fc8d78f8d1bc00f} 
+\index{Sculptor@{Sculptor}!cutBox@{cutBox}}
+\index{cutBox@{cutBox}!Sculptor@{Sculptor}}
+\doxysubsubsection{cutBox()}
+{\footnotesize\ttfamily void Sculptor\+::cut\+Box (\begin{DoxyParamCaption}\item[{int}]{x0,  }\item[{int}]{x1,  }\item[{int}]{y0,  }\item[{int}]{y1,  }\item[{int}]{z0,  }\item[{int}]{z1 }\end{DoxyParamCaption})}
+
+\label{class_sculptor_a18d2922c111c4c13653ee07d878151ad} 
+\index{Sculptor@{Sculptor}!cutEllipsoid@{cutEllipsoid}}
+\index{cutEllipsoid@{cutEllipsoid}!Sculptor@{Sculptor}}
+\doxysubsubsection{cutEllipsoid()}
+{\footnotesize\ttfamily void Sculptor\+::cut\+Ellipsoid (\begin{DoxyParamCaption}\item[{int}]{xcenter,  }\item[{int}]{ycenter,  }\item[{int}]{zcenter,  }\item[{int}]{rx,  }\item[{int}]{ry,  }\item[{int}]{rz }\end{DoxyParamCaption})}
+
+\label{class_sculptor_a67ab8c0ba5116adb8af1d01ad373ac15} 
+\index{Sculptor@{Sculptor}!cutSphere@{cutSphere}}
+\index{cutSphere@{cutSphere}!Sculptor@{Sculptor}}
+\doxysubsubsection{cutSphere()}
+{\footnotesize\ttfamily void Sculptor\+::cut\+Sphere (\begin{DoxyParamCaption}\item[{int}]{xcenter,  }\item[{int}]{ycenter,  }\item[{int}]{zcenter,  }\item[{int}]{radius }\end{DoxyParamCaption})}
+
+\label{class_sculptor_a06d641ef19a86447e1b2791a9f46ec7f} 
+\index{Sculptor@{Sculptor}!cutVoxel@{cutVoxel}}
+\index{cutVoxel@{cutVoxel}!Sculptor@{Sculptor}}
+\doxysubsubsection{cutVoxel()}
+{\footnotesize\ttfamily void Sculptor\+::cut\+Voxel (\begin{DoxyParamCaption}\item[{int}]{\+\_\+x,  }\item[{int}]{\+\_\+y,  }\item[{int}]{\+\_\+z }\end{DoxyParamCaption})}
+
+Here is the caller graph for this function\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=306pt]{class_sculptor_a06d641ef19a86447e1b2791a9f46ec7f_icgraph}
+\end{center}
+\end{figure}
+\label{class_sculptor_a311ad7a0fb83fc67ac1f378be8e99fe1} 
+\index{Sculptor@{Sculptor}!putBox@{putBox}}
+\index{putBox@{putBox}!Sculptor@{Sculptor}}
+\doxysubsubsection{putBox()}
+{\footnotesize\ttfamily void Sculptor\+::put\+Box (\begin{DoxyParamCaption}\item[{int}]{x0,  }\item[{int}]{x1,  }\item[{int}]{y0,  }\item[{int}]{y1,  }\item[{int}]{z0,  }\item[{int}]{z1 }\end{DoxyParamCaption})}
+
+\label{class_sculptor_a093615b0c2b9b3a17a56300b9b939f39} 
+\index{Sculptor@{Sculptor}!putEllipsoid@{putEllipsoid}}
+\index{putEllipsoid@{putEllipsoid}!Sculptor@{Sculptor}}
+\doxysubsubsection{putEllipsoid()}
+{\footnotesize\ttfamily void Sculptor\+::put\+Ellipsoid (\begin{DoxyParamCaption}\item[{int}]{xcenter,  }\item[{int}]{ycenter,  }\item[{int}]{zcenter,  }\item[{int}]{rx,  }\item[{int}]{ry,  }\item[{int}]{rz }\end{DoxyParamCaption})}
+
+\label{class_sculptor_a794a2b6ee8fc8098fd6150cb46101fc6} 
+\index{Sculptor@{Sculptor}!putSphere@{putSphere}}
+\index{putSphere@{putSphere}!Sculptor@{Sculptor}}
+\doxysubsubsection{putSphere()}
+{\footnotesize\ttfamily void Sculptor\+::put\+Sphere (\begin{DoxyParamCaption}\item[{int}]{xcenter,  }\item[{int}]{ycenter,  }\item[{int}]{zcenter,  }\item[{int}]{radius }\end{DoxyParamCaption})}
+
+\label{class_sculptor_a5cf733d88cfeddf4e6df35da4d75dd41} 
+\index{Sculptor@{Sculptor}!putVoxel@{putVoxel}}
+\index{putVoxel@{putVoxel}!Sculptor@{Sculptor}}
+\doxysubsubsection{putVoxel()}
+{\footnotesize\ttfamily void Sculptor\+::put\+Voxel (\begin{DoxyParamCaption}\item[{int}]{\+\_\+x,  }\item[{int}]{\+\_\+y,  }\item[{int}]{\+\_\+z }\end{DoxyParamCaption})}
+
+Here is the caller graph for this function\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=306pt]{class_sculptor_a5cf733d88cfeddf4e6df35da4d75dd41_icgraph}
+\end{center}
+\end{figure}
+\label{class_sculptor_a5723e671e073ac310b6f385a7fdc9f9f} 
+\index{Sculptor@{Sculptor}!setColor@{setColor}}
+\index{setColor@{setColor}!Sculptor@{Sculptor}}
+\doxysubsubsection{setColor()}
+{\footnotesize\ttfamily void Sculptor\+::set\+Color (\begin{DoxyParamCaption}\item[{float}]{\+\_\+r,  }\item[{float}]{\+\_\+g,  }\item[{float}]{\+\_\+b,  }\item[{float}]{\+\_\+a }\end{DoxyParamCaption})}
+
+Here is the caller graph for this function\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=304pt]{class_sculptor_a5723e671e073ac310b6f385a7fdc9f9f_icgraph}
+\end{center}
+\end{figure}
+\label{class_sculptor_a45332b63a1b239a35d634eba60319127} 
+\index{Sculptor@{Sculptor}!writeOFF@{writeOFF}}
+\index{writeOFF@{writeOFF}!Sculptor@{Sculptor}}
+\doxysubsubsection{writeOFF()}
+{\footnotesize\ttfamily void Sculptor\+::write\+OFF (\begin{DoxyParamCaption}\item[{const std\+::string}]{filename }\end{DoxyParamCaption})}
+
+Here is the caller graph for this function\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=251pt]{class_sculptor_a45332b63a1b239a35d634eba60319127_icgraph}
+\end{center}
+\end{figure}
+
+
+The documentation for this class was generated from the following files\+:\begin{DoxyCompactItemize}
+\item 
+\textbf{ sculptor.\+h}\item 
+\textbf{ sculptor.\+cpp}\end{DoxyCompactItemize}
